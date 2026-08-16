@@ -1,4 +1,4 @@
-# 离线 PDF 工具箱（Soft Pastel 奶油风）
+# PDF 工具箱（Soft Pastel 奶油风）
 
 > 纯离线 · 零上传 · 全免费 · 开源 —— 一个 HTML 文件搞定 35 项 PDF 操作
 
